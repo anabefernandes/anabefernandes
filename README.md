@@ -1,6 +1,6 @@
 <div>
 <a href="https://github.com/anabefernandes">
-<img loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabefernandes&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=anabefernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabefernandes&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anabefernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 ## Hello, Devs!
