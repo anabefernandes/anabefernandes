@@ -4,7 +4,7 @@
 </div>
   
 ## Hello, Devs!
-### Me chamo Ana Beatriz, tenho 26 anos. Moro em Praia Grande, litoal de São Paulo. 
+### Me chamo Ana Beatriz, tenho 26 anos. Moro em Praia Grande, litoral de São Paulo. 
 
 #### Sou estudante de Desenvolvimento de Software Multiplataforma na FATEC, sou iniciante em programação e criando um caso de amor e ódio com todas as linguagens que estou aprendendo :')
 #### Atualmente aprendendo Java, PHP e C++ na faculdade e fuçando em outras linguagens no restante do tempo.
