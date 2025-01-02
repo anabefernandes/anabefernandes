@@ -18,14 +18,10 @@
 ### Estatísticas do GitHub
 <div> <a href="https://github.com/anabefernandes"> <img loading="lazy" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabefernandes&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="150" src="https://github-readme-stats.vercel.app/api?username=anabefernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </a> </div>
 <div>
-  
-<a href="https://github.com/anabefernandes">
-<img loading="lazy" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabefernandes&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="150" src="https://github-readme-stats.vercel.app/api?username=anabefernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 ### Contatos: 
 <div>
-<a href = "mailto:annabiafernandess@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:abeatriz.fernandes@outlook.com"><img loading="lazy" src="https://cdn-icons-png.flaticon.com/512/732/732223.png" target="_blank"></a>
 <a href="https://www.linkedin.com/in/anabefernandes/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
