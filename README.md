@@ -21,8 +21,8 @@
 
 ### Contatos: 
 <div>
-<a href = "mailto:abeatriz.fernandes@outlook.com"><img loading="lazy" src="https://cdn-icons-png.flaticon.com/512/732/732223.png"  width="40" height="40" target="_blank"></a>
-<a href="https://www.linkedin.com/in/anabefernandes/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:abeatriz.fernandes@outlook.com"><img loading="lazy" src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="40" height="40" target="_blank"></a>
+<a href="https://www.linkedin.com/in/anabefernandes/" target="_blank"><img loading="lazy" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="40" height="40"  target="_blank"></a>   
 </div>
 
                      
