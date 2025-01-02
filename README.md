@@ -13,9 +13,6 @@
 ### Bancos de Dados:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 
-         
-
-### Estatísticas do GitHub
 <div> <a href="https://github.com/anabefernandes"> <img loading="lazy" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabefernandes&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="150" src="https://github-readme-stats.vercel.app/api?username=anabefernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </a> </div>
 <div>
 
