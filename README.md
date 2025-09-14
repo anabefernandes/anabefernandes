@@ -9,6 +9,19 @@
 
 ### 🚀 Tecnologias & Ferramentas
 
+<div align="center">
+<br>
+  <img align="center" src="https://skillicons.dev/icons?i=java,spring,nodejs,react,kotlin">
+</div>
+<br>
+<div align="center">
+  <img align="center" src="https://skillicons.dev/icons?i=postgres,mongodb,redis,&theme=light">
+</div>
+<br>
+<div align="center">
+  <img align="center" src="https://skillicons.dev/icons?i=postman,git,gitlab,github,postman,&theme=light">
+</div>
+
 **Linguagens & Frameworks**  
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40"/></code>
