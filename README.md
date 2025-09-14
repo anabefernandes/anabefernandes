@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B57EDC&height=120&section=header"/>
+
 # 👋 Olá! Eu sou a Ana Beatriz
 
 🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na FATEC  
