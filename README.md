@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=B57EDC&text=Olá,%20me%20chamo%20Ana!&reversal=false&textBg=false&fontSize=20&fontColor=fff&desc=Aspirante%20à%20Desenvolvedora%20de%20Back-End&descAlign=50&descAlignY=72&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=B57EDC&text=Olá,%20me%20chamo%20Ana!&reversal=false&textBg=false&fontSize=20&fontColor=fff&desc=Aspirante%20à%20Desenvolvedora%20Back-End&descAlign=50&descAlignY=72&section=header"/>
 
 🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na FATEC (2023 - 2026) <br>
 💡 Interessada em **Back-End, APIs e Banco de Dados**, mas sempre explorando o Front-End também  
