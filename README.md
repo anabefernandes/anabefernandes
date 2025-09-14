@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B57EDC&height=200&section=header&text=Olá,%20me%20chamo%20Ana%20👋%20%7C%20Aspirante%20a%20Desenvolvedora%20Back-End&fontSize=30&fontColor=fff&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=B57EDC&text=Olá,%20me%20chamo%20Ana!&reversal=false&textBg=false&fontSize=20&fontColor=fff&desc=Aspirante%20à%20Desenvolvedora%20de%20Back-End&descAlign=50&descAlignY=72&section=header"/>
 
 # 👋 Olá! Eu sou a Ana Beatriz
 
