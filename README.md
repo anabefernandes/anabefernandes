@@ -8,7 +8,7 @@
 ### 🚀 Tecnologias & Ferramentas
 
 **Linguagens & Frameworks**  
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40"/></code>
@@ -26,8 +26,6 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40"/></code>
 <code><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" width="40"/></code>  
-📌 **Scrum • Kanban • Git/GitHub • Postman**
-
 
 <!--OS STATS-->
 <div align="center">
