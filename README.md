@@ -2,7 +2,7 @@
 
 # 👋 Olá! Eu sou a Ana Beatriz
 
-🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na FATEC  
+🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na FATEC (2023 - 2026)
 💡 Interessada em **Back-End, APIs e Banco de Dados**, mas sempre explorando o Front-End também  
 🌱 Atualmente aprendendo **Java (Spring Boot)** e **Node.js**  
 📌 Buscando oportunidades para aplicar meus conhecimentos em projetos reais e crescer na área de tecnologia  
@@ -22,24 +22,9 @@
   <img align="center" src="https://skillicons.dev/icons?i=postman,git,gitlab,github,postman,&theme=light">
 </div>
 
-**Linguagens & Frameworks**  
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="40"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40"/></code>
-
-**Banco de Dados**  
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="40"/></code>
-
-**Metodologias & Ferramentas**  
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40"/></code>
-<code><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" width="40"/></code>  
+### 📫 Como me encontrar:
+<a href="mailto:anafernandesdev@outlook.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="40"/></a>
+<a href="https://www.linkedin.com/in/anabefernandes/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="40"/></a>
 
 <!--OS STATS-->
 <div align="center">
