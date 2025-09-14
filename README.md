@@ -19,7 +19,7 @@
 </div>
 <br>
 <div align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=postman,git,gitlab,github,postman,&theme=light">
+  <img align="center" src="https://skillicons.dev/icons?i=postman,git,gitlab,github,&theme=light">
 </div>
 
 ### 📫 Como me encontrar:
@@ -36,3 +36,5 @@
 ### 📫 Como me encontrar:
 <a href="mailto:anafernandesdev@outlook.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="40"/></a>
 <a href="https://www.linkedin.com/in/anabefernandes/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="40"/></a>
+<br><br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B57EDC&height=120&section=footer"/>
