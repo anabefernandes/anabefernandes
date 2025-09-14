@@ -1,4 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B57EDC&height=120&section=header"/>
+[<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B57EDC&height=120&section=header"/>](https://capsule-render.vercel.app/api?type=waving&height=100&color=B57EDC&text=Olá,%20me%20chamo%20Ana!&reversal=false&textBg=false&fontSize=20&fontColor=B57EDC&desc=Aspirante%20à%20Desenvolvedora%20Back-End&descAlign=50&descAlignY=72)
+
 # 👋 Olá! Eu sou a Ana Beatriz
 
 🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na FATEC (2023 - 2026) <br>
@@ -33,5 +34,4 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabefernandes&layout=compact&theme=dracula"/>
   <img height="150" src="https://streak-stats.demolab.com/?user=anabefernandes&theme=dracula"/>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B57EDC&height=120&section=footer"/>
+[<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B57EDC&height=120&section=footer"/>](https://capsule-render.vercel.app/api?type=waving&height=100&color=B57EDC&reversal=false&textBg=false&fontSize=20&fontColor=B57EDC&descAlign=50&descAlignY=72&section=footer)
