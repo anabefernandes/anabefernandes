@@ -2,7 +2,7 @@
 
 # 👋 Olá! Eu sou a Ana Beatriz
 
-🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na FATEC (2023 - 2026)
+🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na FATEC (2023 - 2026) <br>
 💡 Interessada em **Back-End, APIs e Banco de Dados**, mas sempre explorando o Front-End também  
 🌱 Atualmente aprendendo **Java (Spring Boot)** e **Node.js**  
 📌 Buscando oportunidades para aplicar meus conhecimentos em projetos reais e crescer na área de tecnologia  
