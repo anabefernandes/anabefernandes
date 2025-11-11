@@ -2,14 +2,14 @@
 
 🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na FATEC (2023 - 2026) <br>
 💡 Interessada em **Back-End, APIs e Banco de Dados**, mas sempre explorando o Front-End também  
-🌱 Atualmente aprendendo **Java (Spring Boot)** e **Node.js**  
-📌 Buscando oportunidades para aplicar meus conhecimentos em projetos reais e crescer na área de tecnologia  
+- **Java (Spring Boot)** | **C# (.NET)** | **JavaScript (Node.js)**  
+Aplicando meus conhecimentos em projetos reais para evoluir na área de tecnologia. :)
 
 ### 🚀 Tecnologias & Ferramentas
 
 <div align="center">
 <br>
-  <img align="center" src="https://skillicons.dev/icons?i=java,spring,nodejs,react,kotlin">
+  <img align="center" src="https://skillicons.dev/icons?i=java,spring,csharp,dotnet,nodejs,react,kotlin">
 </div>
 <br>
 <div align="center">
