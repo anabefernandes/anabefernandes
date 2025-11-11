@@ -9,7 +9,7 @@ Aplicando meus conhecimentos em projetos reais para evoluir na área de tecnolog
 
 <div align="center">
 <br>
-  <img align="center" src="https://skillicons.dev/icons?i=java,spring,csharp,dotnet,nodejs,react,kotlin">
+  <img align="center" src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,react,kotlin">
 </div>
 <br>
 <div align="center">
