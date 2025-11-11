@@ -30,6 +30,5 @@ Aplicando meus conhecimentos em projetos reais para evoluir na área de tecnolog
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=anabefernandes&show_icons=true&theme=dracula&count_private=true"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabefernandes&layout=compact&theme=dracula"/>
-  <img height="150" src="https://streak-stats.demolab.com/?user=anabefernandes&theme=dracula"/>
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=B57EDC&reversal=false&textBg=false&section=footer"/>
